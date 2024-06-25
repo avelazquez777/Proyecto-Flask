@@ -111,3 +111,6 @@ def agregar_personas():
 
         return redirect ('personas')
     return render_template ('add_personas.html')
+
+
+linea = "1234"
